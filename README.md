@@ -96,12 +96,12 @@ Use a local development server to run your application. You can use tools Node.j
 
 # User-Interface of Application
 
-<img src="https://github.com/VinaySoni04/Fyle-Assignment/assets/98009479/6133207c-44f0-496d-8caf-ca08f1cb547e" width="450" height="300">
-<img src="https://github.com/VinaySoni04/Fyle-Assignment/assets/98009479/d2786cc0-06cd-432c-9a3d-c59a1d9e521c" width="450" height="300">
-<img src="https://github.com/VinaySoni04/Fyle-Assignment/assets/98009479/331683ea-a6b5-4504-819a-538644cd8e01" width="450" height="300">
-<img src="https://github.com/VinaySoni04/Fyle-Assignment/assets/98009479/03679b99-3728-4240-bdf9-63baae908b0e" width="450" height="300">
-<img src="https://github.com/VinaySoni04/Fyle-Assignment/assets/98009479/95190924-31fa-44db-b478-8575d7b298c0" width="450" height="300">
-<img src="https://github.com/VinaySoni04/Fyle-Assignment/assets/98009479/daf5614e-1d4c-4dea-8db2-9f6c9e11d006" width="450" height="300">
+<img src="https://github.com/VinaySoni04/Fyle-Assignment/assets/98009479/6133207c-44f0-496d-8caf-ca08f1cb547e" width="400" height="250">
+<img src="https://github.com/VinaySoni04/Fyle-Assignment/assets/98009479/d2786cc0-06cd-432c-9a3d-c59a1d9e521c" width="400" height="250">
+<img src="https://github.com/VinaySoni04/Fyle-Assignment/assets/98009479/331683ea-a6b5-4504-819a-538644cd8e01" width="400" height="250">
+<img src="https://github.com/VinaySoni04/Fyle-Assignment/assets/98009479/03679b99-3728-4240-bdf9-63baae908b0e" width="400" height="250">
+<img src="https://github.com/VinaySoni04/Fyle-Assignment/assets/98009479/95190924-31fa-44db-b478-8575d7b298c0" width="400" height="250">
+<img src="https://github.com/VinaySoni04/Fyle-Assignment/assets/98009479/daf5614e-1d4c-4dea-8db2-9f6c9e11d006" width="400" height="250">
 
 # Testing Instructions
 1. Input Validation
