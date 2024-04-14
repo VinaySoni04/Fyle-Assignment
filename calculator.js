@@ -6,14 +6,12 @@ var tooltipList = tooltipTriggerList.map(function (tooltipTriggerEl) {
   return new bootstrap.Tooltip(tooltipTriggerEl);
 });
 
-
 // Main js file
 document.addEventListener("DOMContentLoaded", function () {
   document
     .getElementById("calculateBtn")
     .addEventListener("click", calculateTax);
 });
-
 
 function validateInput(input) {
   return input > 0;
@@ -78,15 +76,23 @@ function calculateTax() {
 
     const tax = (totalIncome - 800000) * taxRate;
     const finalIncome = totalIncome - tax;
-    showModal(`${finalIncome.toLocaleString()}`);
+    showModal(`${finalIncome.toLocaleString()}`, true);
   } else {
-    showModal("No tax applicable.");
+    showModal("No tax applicable.", false);
   }
 }
 
-function showModal(message) {
+function showModal(message, isDigit) {
   const modal = document.getElementById("resultModal");
-  document.getElementById("resultText").innerText = message;
+  if (!isDigit) {
+    document.getElementById("resultText").innerText = message;
+    document.getElementById("h3").innerText = "";
+    document.getElementById("p").innerText = "";
+  } else {
+    document.getElementById("resultText").innerText = message;
+    document.getElementById("h3").innerText = "Your overall income will be";
+    document.getElementById("p").innerText = "after tax deductions";
+  }
 
   modal.style.display = "flex";
 
