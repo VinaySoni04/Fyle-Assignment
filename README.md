@@ -126,13 +126,13 @@ Use a local development server to run your application. You can use tools Node.j
 # Example
 
 1. Gross income = -1000000(Negative number), Extra income = xyz, Age group = (>40), Deduction = 10000
-<img src="https://github.com/VinaySoni04/Fyle-Assignment/assets/98009479/1d784681-ee55-44b9-8b28-157798151be3" width="450" height="300">
-<img src="https://github.com/VinaySoni04/Fyle-Assignment/assets/98009479/4b651c6c-2eb7-4d2d-aa99-ab953fd506f5" width="450" height="300">
+<img src="https://github.com/VinaySoni04/Fyle-Assignment/assets/98009479/1d784681-ee55-44b9-8b28-157798151be3" width="400" height="250">
+<img src="https://github.com/VinaySoni04/Fyle-Assignment/assets/98009479/4b651c6c-2eb7-4d2d-aa99-ab953fd506f5" width="400" height="250">
 
 
 2. Gross income = 1000000, Extra income = 10000, Age group = (>40), Deduction = 10000
-<img src="https://github.com/VinaySoni04/Fyle-Assignment/assets/98009479/a8578489-6608-48bd-9e6a-ff3164e53f83" width="500" height="300">
+<img src="https://github.com/VinaySoni04/Fyle-Assignment/assets/98009479/a8578489-6608-48bd-9e6a-ff3164e53f83" width="450" height="250">
 
 3. Gross income = 600000, Extra income = 10000, Age group = (>40), Deduction = 10000
-<img src="https://github.com/VinaySoni04/Fyle-Assignment/assets/98009479/3d4d1892-a590-49e5-8098-4909f9a293b1" width="500" height="300">
+<img src="https://github.com/VinaySoni04/Fyle-Assignment/assets/98009479/3d4d1892-a590-49e5-8098-4909f9a293b1" width="450" height="250">
 
